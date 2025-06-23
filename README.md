@@ -43,9 +43,6 @@ python file_organizer.py
 - Python 3
 - `os`, `shutil`, `pathlib`
 
-## 📄 License
-MIT License (you can change this)
-
 ---
 
 Made with ☕ and Python.
